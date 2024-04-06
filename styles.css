@@ -203,6 +203,7 @@ nav {
   display: flex;
   justify-content: center;
   margin-top: 10px;
+  flex-wrap: wrap;
 }
 .ourProgram .crd{
   margin-inline: 22px;
